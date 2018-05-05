@@ -1,0 +1,27 @@
+{
+  "name": "dp",
+  "version": "1.0.0",
+  "description": "Departmental project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygpt/Departmental_Portal.git"
+  },
+  "author": "JAY Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygpt/Departmental_Portal/issues"
+  },
+  "homepage": "https://github.com/jaygpt/Departmental_Portal#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dependable": "^1.1.0",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "express-promise-router": "^3.0.2",
+    "lodash": "^4.17.10"
+  }
+}
